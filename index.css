@@ -1,0 +1,29 @@
+.i1{
+	margin-top: 20px;
+	margin-left: 2px;
+	width: 50%;
+	height: 40px;
+	text-align: center;
+	margin-top: 10px;
+	border: 1px solid green;
+	border-radius: 5px;
+	background: white;
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.i2{
+	width: 100%;
+}
+.i3{
+	background: balck;
+	height: 300px;
+	border: 1px solid blue;
+}
+.i4{
+	width: 48%; 
+	border: 1px solid red; 
+	float: left; 
+	height: 200px; 
+	border-radius: 10px; 
+	margin-right: 6px; 
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
